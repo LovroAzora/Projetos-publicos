@@ -4,15 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Xadrez.Tabuleiro
+namespace Xadrez.tabuleiro
 {
-     class posicao
+     class Posicao
     {
         public int Linha { get; set; }
         public int Coluna { get; set; }
-        public posicao() { }
+        public Posicao() { }
 
-        public posicao(int linha, int coluna)
+        public Posicao(int linha, int coluna)
         {
             Linha = linha;
             Coluna = coluna;
