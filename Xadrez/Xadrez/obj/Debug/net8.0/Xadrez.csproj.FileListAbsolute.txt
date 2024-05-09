@@ -1,0 +1,14 @@
+C:\Projetos publicos\Xadrez\Xadrez\bin\Debug\net8.0\Xadrez.exe
+C:\Projetos publicos\Xadrez\Xadrez\bin\Debug\net8.0\Xadrez.deps.json
+C:\Projetos publicos\Xadrez\Xadrez\bin\Debug\net8.0\Xadrez.runtimeconfig.json
+C:\Projetos publicos\Xadrez\Xadrez\bin\Debug\net8.0\Xadrez.dll
+C:\Projetos publicos\Xadrez\Xadrez\bin\Debug\net8.0\Xadrez.pdb
+C:\Projetos publicos\Xadrez\Xadrez\obj\Debug\net8.0\Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos publicos\Xadrez\Xadrez\obj\Debug\net8.0\Xadrez.AssemblyInfoInputs.cache
+C:\Projetos publicos\Xadrez\Xadrez\obj\Debug\net8.0\Xadrez.AssemblyInfo.cs
+C:\Projetos publicos\Xadrez\Xadrez\obj\Debug\net8.0\Xadrez.csproj.CoreCompileInputs.cache
+C:\Projetos publicos\Xadrez\Xadrez\obj\Debug\net8.0\Xadrez.dll
+C:\Projetos publicos\Xadrez\Xadrez\obj\Debug\net8.0\refint\Xadrez.dll
+C:\Projetos publicos\Xadrez\Xadrez\obj\Debug\net8.0\Xadrez.pdb
+C:\Projetos publicos\Xadrez\Xadrez\obj\Debug\net8.0\Xadrez.genruntimeconfig.cache
+C:\Projetos publicos\Xadrez\Xadrez\obj\Debug\net8.0\ref\Xadrez.dll
