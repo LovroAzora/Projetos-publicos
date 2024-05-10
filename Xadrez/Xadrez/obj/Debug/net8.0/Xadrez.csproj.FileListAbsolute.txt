@@ -12,3 +12,4 @@ C:\Projetos publicos\Xadrez\Xadrez\obj\Debug\net8.0\refint\Xadrez.dll
 C:\Projetos publicos\Xadrez\Xadrez\obj\Debug\net8.0\Xadrez.pdb
 C:\Projetos publicos\Xadrez\Xadrez\obj\Debug\net8.0\Xadrez.genruntimeconfig.cache
 C:\Projetos publicos\Xadrez\Xadrez\obj\Debug\net8.0\ref\Xadrez.dll
+C:\Projetos publicos\Xadrez\Xadrez\obj\Debug\net8.0\Xadrez.sourcelink.json
