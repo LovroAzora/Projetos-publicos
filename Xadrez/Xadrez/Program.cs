@@ -1,4 +1,5 @@
-﻿using Xadrez.tabuleiro;
+﻿using System.Net.Http.Headers;
+using Xadrez.tabuleiro;
 using Xadrez.xadrez;
 
 namespace Xadrez
@@ -7,18 +8,10 @@ namespace Xadrez
     {
         static void Main(string[] args)
         {
-            try
-            {
-                Tabuleiro tab = new Tabuleiro(8, 8);
-                tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(0, 0));
-                tab.colocarPeca(new Rei(tab, Cor.Preta), new Posicao(0, 0));
-                tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(1, 3));
-                tab.colocarPeca(new Rei(tab, Cor.Preta), new Posicao(2, 4));
-                Tela.imprimirTabuleiro(tab);
-            }
-            catch (Exception ex) { 
-            Console.WriteLine(ex.Message);
-            }
+
+            PosicaoXadrez pos = new PosicaoXadrez('C', 1);
+            Console.WriteLine(pos);
+            Console.WriteLine(pos.toPosicao());
 
         }
     }
