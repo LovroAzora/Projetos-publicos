@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{62D449AA-57F5-46A5-B942-04641B346542}|Xadrez\\Xadrez.csproj|solutionrelative:xadrez\\xadrez\\partidadexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{62D449AA-57F5-46A5-B942-04641B346542}|Xadrez\\Xadrez.csproj|c:\\projetos publicos\\xadrez\\xadrez\\xadrez\\peao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D449AA-57F5-46A5-B942-04641B346542}|Xadrez\\Xadrez.csproj|solutionrelative:xadrez\\xadrez\\peao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62D449AA-57F5-46A5-B942-04641B346542}|Xadrez\\Xadrez.csproj|c:\\projetos publicos\\xadrez\\xadrez\\xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62D449AA-57F5-46A5-B942-04641B346542}|Xadrez\\Xadrez.csproj|solutionrelative:xadrez\\xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,17 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Peao.cs",
+              "DocumentMoniker": "C:\\Projetos publicos\\Xadrez\\Xadrez\\xadrez\\Peao.cs",
+              "RelativeDocumentMoniker": "Xadrez\\xadrez\\Peao.cs",
+              "ToolTip": "C:\\Projetos publicos\\Xadrez\\Xadrez\\xadrez\\Peao.cs",
+              "RelativeToolTip": "Xadrez\\xadrez\\Peao.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAuwGYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:14:48.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Rei.cs",
               "DocumentMoniker": "C:\\Projetos publicos\\Xadrez\\Xadrez\\xadrez\\Rei.cs",
               "RelativeDocumentMoniker": "Xadrez\\xadrez\\Rei.cs",
               "ToolTip": "C:\\Projetos publicos\\Xadrez\\Xadrez\\xadrez\\Rei.cs",
               "RelativeToolTip": "Xadrez\\xadrez\\Rei.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAcwGoAAAAyAAAA",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwFUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T16:41:21.398Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "Xadrez\\xadrez\\PartidaDeXadrez.cs",
               "ToolTip": "C:\\Projetos publicos\\Xadrez\\Xadrez\\xadrez\\PartidaDeXadrez.cs",
               "RelativeToolTip": "Xadrez\\xadrez\\PartidaDeXadrez.cs",
-              "ViewState": "AQIAAAkBAAAAAAAAAAAwwCABAAA/AAAA",
+              "ViewState": "AQIAAD8BAAAAAAAAAAAAAEIBAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T13:59:36.63Z",
               "EditorCaption": ""
