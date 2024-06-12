@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\migrations\\20240612141428_otherentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\migrations\\20240612141428_otherentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\data\\salescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\data\\salescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\models\\enuns\\salestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\models\\enuns\\salestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20240612141428_OtherEntities.cs",
-              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Migrations\\20240612141428_OtherEntities.cs",
-              "RelativeDocumentMoniker": "Sales\\Migrations\\20240612141428_OtherEntities.cs",
-              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Migrations\\20240612141428_OtherEntities.cs",
-              "RelativeToolTip": "Sales\\Migrations\\20240612141428_OtherEntities.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Startup.cs",
+              "RelativeDocumentMoniker": "Sales\\Startup.cs",
+              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Startup.cs",
+              "RelativeToolTip": "Sales\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T14:14:28.676Z",
+              "WhenOpened": "2024-06-12T17:29:03.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SalesContext.cs",
-              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Data\\SalesContext.cs",
-              "RelativeDocumentMoniker": "Sales\\Data\\SalesContext.cs",
-              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Data\\SalesContext.cs",
-              "RelativeToolTip": "Sales\\Data\\SalesContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Title": "SeedingService.cs",
+              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Data\\SeedingService.cs",
+              "RelativeDocumentMoniker": "Sales\\Data\\SeedingService.cs",
+              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Data\\SeedingService.cs",
+              "RelativeToolTip": "Sales\\Data\\SeedingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwB8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T14:12:09.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "Sales\\Models\\Department.cs",
-              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Models\\Department.cs",
-              "RelativeToolTip": "Sales\\Models\\Department.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:53:41.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SaleStatus.cs",
-              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Models\\Enuns\\SaleStatus.cs",
-              "RelativeDocumentMoniker": "Sales\\Models\\Enuns\\SaleStatus.cs",
-              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Models\\Enuns\\SaleStatus.cs",
-              "RelativeToolTip": "Sales\\Models\\Enuns\\SaleStatus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:48:48.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SalesRecord.cs",
-              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Models\\SalesRecord.cs",
-              "RelativeDocumentMoniker": "Sales\\Models\\SalesRecord.cs",
-              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Models\\SalesRecord.cs",
-              "RelativeToolTip": "Sales\\Models\\SalesRecord.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBIAAABhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:48:22.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Seller.cs",
-              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Models\\Seller.cs",
-              "RelativeDocumentMoniker": "Sales\\Models\\Seller.cs",
-              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Models\\Seller.cs",
-              "RelativeToolTip": "Sales\\Models\\Seller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:03:10.776Z",
+              "WhenOpened": "2024-06-12T17:28:51.695Z",
               "EditorCaption": ""
             }
           ]
