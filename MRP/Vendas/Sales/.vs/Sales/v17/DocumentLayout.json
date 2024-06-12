@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\migrations\\20240606164318_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\migrations\\20240606164318_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\migrations\\20240612141428_otherentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\migrations\\20240612141428_otherentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\obj\\Debug\\net472\\Razor\\Views\\Shared\\Error.cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sales\\obj\\Debug\\net472\\Razor\\Views\\Shared\\Error.cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\data\\salescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\data\\salescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\models\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\models\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|c:\\projetos publicos\\mrp\\vendas\\sales\\sales\\models\\enuns\\salestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F3628C-9C23-48D3-BFF0-EC725520989F}|Sales\\Sales.csproj|solutionrelative:sales\\models\\enuns\\salestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,105 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20240606164318_Initial.cs",
-              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Migrations\\20240606164318_Initial.cs",
-              "RelativeDocumentMoniker": "Sales\\Migrations\\20240606164318_Initial.cs",
-              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Migrations\\20240606164318_Initial.cs",
-              "RelativeToolTip": "Sales\\Migrations\\20240606164318_Initial.cs",
+              "Title": "20240612141428_OtherEntities.cs",
+              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Migrations\\20240612141428_OtherEntities.cs",
+              "RelativeDocumentMoniker": "Sales\\Migrations\\20240612141428_OtherEntities.cs",
+              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Migrations\\20240612141428_OtherEntities.cs",
+              "RelativeToolTip": "Sales\\Migrations\\20240612141428_OtherEntities.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:43:18.61Z",
+              "WhenOpened": "2024-06-12T14:14:28.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Startup.cs",
-              "RelativeDocumentMoniker": "Sales\\Startup.cs",
-              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Startup.cs",
-              "RelativeToolTip": "Sales\\Startup.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowDgAAAAAAAAA",
+              "Title": "SalesContext.cs",
+              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Data\\SalesContext.cs",
+              "RelativeDocumentMoniker": "Sales\\Data\\SalesContext.cs",
+              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Data\\SalesContext.cs",
+              "RelativeToolTip": "Sales\\Data\\SalesContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:26:48.797Z",
+              "WhenOpened": "2024-06-12T14:12:09.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Controllers\\DepartmentsController.cs",
-              "RelativeDocumentMoniker": "Sales\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Controllers\\DepartmentsController.cs",
-              "RelativeToolTip": "Sales\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:22:35.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Sales\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Sales\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-06T16:20:33.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Models\\Department.cs",
               "RelativeDocumentMoniker": "Sales\\Models\\Department.cs",
               "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Models\\Department.cs",
               "RelativeToolTip": "Sales\\Models\\Department.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:13:58.865Z",
+              "WhenOpened": "2024-06-12T13:53:41.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Error.cshtml.g.cs",
-              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\obj\\Debug\\net472\\Razor\\Views\\Shared\\Error.cshtml.g.cs",
-              "RelativeDocumentMoniker": "Sales\\obj\\Debug\\net472\\Razor\\Views\\Shared\\Error.cshtml.g.cs",
-              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\obj\\Debug\\net472\\Razor\\Views\\Shared\\Error.cshtml.g.cs",
-              "RelativeToolTip": "Sales\\obj\\Debug\\net472\\Razor\\Views\\Shared\\Error.cshtml.g.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAAAAAA",
+              "Title": "SaleStatus.cs",
+              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Models\\Enuns\\SaleStatus.cs",
+              "RelativeDocumentMoniker": "Sales\\Models\\Enuns\\SaleStatus.cs",
+              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Models\\Enuns\\SaleStatus.cs",
+              "RelativeToolTip": "Sales\\Models\\Enuns\\SaleStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:12:20.721Z",
+              "WhenOpened": "2024-06-12T13:48:48.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesRecord.cs",
+              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Models\\SalesRecord.cs",
+              "RelativeDocumentMoniker": "Sales\\Models\\SalesRecord.cs",
+              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Models\\SalesRecord.cs",
+              "RelativeToolTip": "Sales\\Models\\SalesRecord.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBIAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:48:22.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Sales\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Sales\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "Sales\\Models\\Seller.cs",
+              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Models\\Seller.cs",
+              "RelativeToolTip": "Sales\\Models\\Seller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:11:53.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Models\\ViewModels\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Sales\\Models\\ViewModels\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Projetos publicos\\MRP\\Vendas\\Sales\\Sales\\Models\\ViewModels\\ErrorViewModel.cs",
-              "RelativeToolTip": "Sales\\Models\\ViewModels\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:11:10.485Z",
+              "WhenOpened": "2024-06-12T13:03:10.776Z",
               "EditorCaption": ""
             }
           ]
